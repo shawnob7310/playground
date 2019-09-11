@@ -1,2 +1,3 @@
 # playground
- for testing out Github Desktop.
+shawn was here
+This respositiory is for testing out GitHub Desktop.
